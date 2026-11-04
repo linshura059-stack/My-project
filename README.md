@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sok Sophea - Web Developer Portfolio
 
 An interactive, high-performance web portfolio for **Sok Sophea**, rewritten into **React 19 + TypeScript + Vite + Tailwind CSS**.
@@ -28,3 +29,6 @@ An interactive, high-performance web portfolio for **Sok Sophea**, rewritten int
 - **Vite**
 - **Tailwind CSS v4**
 - **Lucide Icons**
+=======
+# My-project
+>>>>>>> 09cc2409151a3c87fcb65b05846eb8ee84c7d919
